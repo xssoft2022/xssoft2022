@@ -1,4 +1,4 @@
 - 👋 Hi, I’m xssoft
-- 💡 My project:
-         ·Python library：
+- 💡 My project
+         ·Python library
                ·xsspeak    
